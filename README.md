@@ -1,4 +1,4 @@
-# Chrome-Calculator-Extension
+# Chrome-Calculator-Extension made by akshay mehta 
 Calculator opens on google chrome side panel by clicking on extension.
 
 # How to use
